@@ -2,27 +2,27 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.onstart.top/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "个人Nas",
+    "link": "http://qc.onstart.top:5000"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "免费音乐下载",
+    "link": "https://tool.liumingye.cn/music/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "买一辆Su7吧",
+    "link": "https://gamemcu.com/su7/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "六零网址导航",
+    "link": "https://hao.lylme.com/"
   },
   {
     "icon": "Fire",
@@ -31,7 +31,7 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "免费Ai合集",
+    "link": "https://a3.ai55.cc/"
   }
 ]
