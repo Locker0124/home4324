@@ -2,7 +2,7 @@
   {
     "name": "Github",
     "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看（点不开就别点了）",
+    "tip": "打不开即无缘",
     "url": "https://github.com/Locker0124"
   },
   {
@@ -15,18 +15,18 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "点击跳转邮件软件",
-    "url": "pushdoog@foxmail.com"
+    "url": "mailto:pushdoog@foxmail.com"
   },
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
-    "tip": "点不开就别点了",
+    "tip": "打不开即无缘",
     "url": "https://twitter.com"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "点不开就别点了",
+    "tip": "打不开即无缘",
     "url": "https://t.me/bottom_user"
   }
 ]
